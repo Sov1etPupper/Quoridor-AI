@@ -1,1 +1,24 @@
+//C# Quoridor game
+//Tobias Packard & Sam Swiniarski
+//Started on: 07-06-2026
 
+using System;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace Quoridor
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //Boardsize is a 9row x 9 col;
+            private int[2] P1Pos = {5, 0};
+            private int[2] P2Pos = {5, 9};
+            private int P1Walls = 10;
+            private int P2Walls = 10;
+
+            
+        }
+    }
+}
